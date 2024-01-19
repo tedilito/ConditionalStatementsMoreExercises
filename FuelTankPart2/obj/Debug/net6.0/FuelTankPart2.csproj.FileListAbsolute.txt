@@ -1,0 +1,14 @@
+C:\Users\tedil\C#_Softuni\Basic\ConditionalStatementsMoreExercises\FuelTankPart2\bin\Debug\net6.0\FuelTankPart2.exe
+C:\Users\tedil\C#_Softuni\Basic\ConditionalStatementsMoreExercises\FuelTankPart2\bin\Debug\net6.0\FuelTankPart2.deps.json
+C:\Users\tedil\C#_Softuni\Basic\ConditionalStatementsMoreExercises\FuelTankPart2\bin\Debug\net6.0\FuelTankPart2.runtimeconfig.json
+C:\Users\tedil\C#_Softuni\Basic\ConditionalStatementsMoreExercises\FuelTankPart2\bin\Debug\net6.0\FuelTankPart2.dll
+C:\Users\tedil\C#_Softuni\Basic\ConditionalStatementsMoreExercises\FuelTankPart2\bin\Debug\net6.0\FuelTankPart2.pdb
+C:\Users\tedil\C#_Softuni\Basic\ConditionalStatementsMoreExercises\FuelTankPart2\obj\Debug\net6.0\FuelTankPart2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\C#_Softuni\Basic\ConditionalStatementsMoreExercises\FuelTankPart2\obj\Debug\net6.0\FuelTankPart2.AssemblyInfoInputs.cache
+C:\Users\tedil\C#_Softuni\Basic\ConditionalStatementsMoreExercises\FuelTankPart2\obj\Debug\net6.0\FuelTankPart2.AssemblyInfo.cs
+C:\Users\tedil\C#_Softuni\Basic\ConditionalStatementsMoreExercises\FuelTankPart2\obj\Debug\net6.0\FuelTankPart2.csproj.CoreCompileInputs.cache
+C:\Users\tedil\C#_Softuni\Basic\ConditionalStatementsMoreExercises\FuelTankPart2\obj\Debug\net6.0\FuelTankPart2.dll
+C:\Users\tedil\C#_Softuni\Basic\ConditionalStatementsMoreExercises\FuelTankPart2\obj\Debug\net6.0\refint\FuelTankPart2.dll
+C:\Users\tedil\C#_Softuni\Basic\ConditionalStatementsMoreExercises\FuelTankPart2\obj\Debug\net6.0\FuelTankPart2.pdb
+C:\Users\tedil\C#_Softuni\Basic\ConditionalStatementsMoreExercises\FuelTankPart2\obj\Debug\net6.0\FuelTankPart2.genruntimeconfig.cache
+C:\Users\tedil\C#_Softuni\Basic\ConditionalStatementsMoreExercises\FuelTankPart2\obj\Debug\net6.0\ref\FuelTankPart2.dll

@@ -1,0 +1,14 @@
+C:\Users\tedil\C#_Softuni\Basic\ConditionalStatementsMoreExercises\FlowerShop\bin\Debug\net6.0\FlowerShop.exe
+C:\Users\tedil\C#_Softuni\Basic\ConditionalStatementsMoreExercises\FlowerShop\bin\Debug\net6.0\FlowerShop.deps.json
+C:\Users\tedil\C#_Softuni\Basic\ConditionalStatementsMoreExercises\FlowerShop\bin\Debug\net6.0\FlowerShop.runtimeconfig.json
+C:\Users\tedil\C#_Softuni\Basic\ConditionalStatementsMoreExercises\FlowerShop\bin\Debug\net6.0\FlowerShop.dll
+C:\Users\tedil\C#_Softuni\Basic\ConditionalStatementsMoreExercises\FlowerShop\bin\Debug\net6.0\FlowerShop.pdb
+C:\Users\tedil\C#_Softuni\Basic\ConditionalStatementsMoreExercises\FlowerShop\obj\Debug\net6.0\FlowerShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\C#_Softuni\Basic\ConditionalStatementsMoreExercises\FlowerShop\obj\Debug\net6.0\FlowerShop.AssemblyInfoInputs.cache
+C:\Users\tedil\C#_Softuni\Basic\ConditionalStatementsMoreExercises\FlowerShop\obj\Debug\net6.0\FlowerShop.AssemblyInfo.cs
+C:\Users\tedil\C#_Softuni\Basic\ConditionalStatementsMoreExercises\FlowerShop\obj\Debug\net6.0\FlowerShop.csproj.CoreCompileInputs.cache
+C:\Users\tedil\C#_Softuni\Basic\ConditionalStatementsMoreExercises\FlowerShop\obj\Debug\net6.0\FlowerShop.dll
+C:\Users\tedil\C#_Softuni\Basic\ConditionalStatementsMoreExercises\FlowerShop\obj\Debug\net6.0\refint\FlowerShop.dll
+C:\Users\tedil\C#_Softuni\Basic\ConditionalStatementsMoreExercises\FlowerShop\obj\Debug\net6.0\FlowerShop.pdb
+C:\Users\tedil\C#_Softuni\Basic\ConditionalStatementsMoreExercises\FlowerShop\obj\Debug\net6.0\FlowerShop.genruntimeconfig.cache
+C:\Users\tedil\C#_Softuni\Basic\ConditionalStatementsMoreExercises\FlowerShop\obj\Debug\net6.0\ref\FlowerShop.dll
